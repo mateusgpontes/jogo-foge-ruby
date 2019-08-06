@@ -2,9 +2,9 @@ XXXXXXXXXXX
 XX   H   XX
 XX XXXXX XX
            
-XX XX XX XX
-XX       XX
-XX  XXX  XX
+XX X X X XX
+X    X    X
+X  XXXXX  X
 XX       XX
 X   XXX   X
 XXX  F  XXX

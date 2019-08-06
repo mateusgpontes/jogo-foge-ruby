@@ -12,5 +12,5 @@ end
 
 def onde_ir
     puts "Para onde você deseja andar"
-    puts gets.strip
+    onde = gets.strip
 end

@@ -1,3 +1,3 @@
-require_relative "foge.rb"
+require_relative "logic.rb"
 
 jogo
